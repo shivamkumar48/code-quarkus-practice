@@ -29,11 +29,11 @@
     </dependencies>
   </dependencyManagement>
   <dependencies>
-    <!--<dependency>
+    <dependency>
       <groupId>io.quarkus</groupId>
       <artifactId>quarkus-grpc</artifactId>
     </dependency>
-    <dependency>
+    <!--<dependency>
       <groupId>io.quarkus</groupId>
       <artifactId>quarkus-hibernate-orm-panache</artifactId>
     </dependency>-->
